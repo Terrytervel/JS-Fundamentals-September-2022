@@ -1,4 +1,4 @@
 # JS-Fundamentals-September-2022
 This is a repository of all the problems resolved during the SoftUni Course JS Fundamentals September 2022.
-First lesson was Programming Basics.
+First lesson was Basic Syntax.
 
